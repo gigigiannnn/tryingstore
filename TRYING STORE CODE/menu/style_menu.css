@@ -1,0 +1,122 @@
+button {
+    background-color:  #58585815;
+    color: white;
+    border-radius: 6px;
+}
+
+body {
+    background-image: url(/menu/menubackground.jpeg);
+    background-color: rgb(31, 31, 31);
+    background-position: top;
+    background-size: cover;
+}
+
+
+.container{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.item-1 {
+    background-color: rgba();
+    margin-inline: 250%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    border: solid 2%;
+    padding: 1%;
+}
+
+.backbutton{
+    background-color: rgba(0, 0, 0, 0.589);
+    padding: 3px 3px 3px 3px;
+    border-radius: 30px;
+}
+
+.toolbar{
+    background-color: rgba(0, 0, 0, 0.589);
+    border-radius: 30px;
+    padding: 3px 1px 3px 1px;
+}
+
+.other_options{
+    
+    background-color:  #33333393;
+    border-radius: 10px 60px 60px 60px;
+    padding: 10px 0px 0px 0px;
+    align-items: center;
+    margin: 10px 350px 10px 350px;   
+}
+
+.panel-1{
+    background-color:rgba(0, 0, 0, 0.589) ;  
+    border-radius: 30px;
+    width: 35%;
+    height: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-color: white;
+}
+
+.panel-2{
+    background-color:rgba(0, 0, 0, 0.589) ;  
+    border-radius: 30px;
+    width: 35%;
+    height: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-color: white;
+}
+
+.panel-3{
+    background-color:rgba(0, 0, 0, 0.589) ;  
+    border-radius: 30px;
+    width: 35%;
+    height: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-color: white;
+}
+
+.interactive-3{
+    background-color:  #5858581c;
+    color:white;
+    border-radius: 30px;
+    margin: 5% 25% 5% 25%;
+    padding: 5% 5% 5% 5%;
+}
+
+
+.interactive-1{
+    background-color:  #5858581c;
+    color:white;
+    border-radius: 30px;
+    margin: 5% 25% 5% 25%;
+    padding: 5% 5% 5% 5%;
+}
+
+.interactive-2{
+    background-color:  #5858581c;
+    color:white;
+    border-radius: 30px;
+    margin: 5% 25% 5% 25%;
+    padding: 5% 5% 5% 5%;
+   
+}
+
+.more_options{
+    background-color:  #58585850;
+    border-radius: 30px;
+    margin: 10%;
+}
+
+.more_menus{
+    background-color: #58585828;
+    border-radius: 30px;
+}
+
+.more_ideas{
+    background-color: #5858582f;
+    border-radius: 30px;
+    margin: 10%;
+}
+
